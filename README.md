@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/akio0796/Space%20Game%20-%20web%20-%20WorkflowSpace%20Game%20-%20web%20-%20Workflow5/_apis/build/status/AkioNuernberger.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/akio0796/Space%20Game%20-%20web%20-%20WorkflowSpace%20Game%20-%20web%20-%20Workflow5/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
